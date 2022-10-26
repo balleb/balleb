@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @balleb
 - 👀 I’m interested in all
 - 🌱 I’m currently learning all
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ...
 
 <!---
